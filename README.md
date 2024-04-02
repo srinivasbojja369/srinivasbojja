@@ -11,5 +11,4 @@ I have an extensive collection of GitHub projects available for review. I invite
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=srinivasbojja369&show_icons=true&theme=blue-green">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasbojja369&layout=compact&hide=html&theme=blue-green" >
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasbojja369&hide_progress=true&theme=blue-green)
